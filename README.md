@@ -78,5 +78,3 @@ Contributions are welcome! If you'd like to improve the extension or fix any iss
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 ```
-
-This README file provides clear guidance on installation, usage, and contribution for users and developers on GitHub.
