@@ -32,11 +32,6 @@ A simple Edge extension that allows users to copy job details from LinkedIn job 
    - Click **Load Unpacked** and select the folder where you cloned the repository.
    - The extension should now be visible in the list of installed extensions.
 
-4. Pin the extension:
-
-   - Click the Extensions icon (puzzle piece) next to the address bar.
-   - Pin the "Copy LinkedIn Job Information" extension for quick access.
-
 ## How to Use
 
 1. Navigate to any LinkedIn job listing page (e.g., `https://www.linkedin.com/jobs/view/*`).
