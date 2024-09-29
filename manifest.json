@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Copy Linkedin Job information",
+  "version": "1.0",
+  "description": "A Edge extension that allows users to copy job information from LinkedIn job postings quickly and easily.",
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/jobs/*"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
